@@ -294,6 +294,7 @@ html {
   font-size: 16px;
   line-height: 28px;
   opacity: 0.75;
+  
 }
 
 @media (min-width: 768px) {
@@ -421,7 +422,6 @@ html {
 @media (min-width: 768px) {
   .button--sign-up {
     margin: 0;
-    color: #ff7b86;
     background-color: #ffffff;
   }
 }
